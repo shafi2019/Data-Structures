@@ -95,6 +95,7 @@ class BSTNode:
 
 """
 This code is necessary for testing the `print` methods
+
 """
 bst = BSTNode(1)
 
